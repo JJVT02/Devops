@@ -1,5 +1,5 @@
 # Devops
-![fotodevops](img/ADO-DevOps-Tool_1200x675@2x.png)
+<img src="img/ADO-DevOps-Tool_1200x675@2x.png" width="600" height="338">
 
 # Indice
 ## [1. Introduccion](introduccion.md)
