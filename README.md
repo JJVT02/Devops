@@ -1,9 +1,10 @@
 # Devops
 ![fotodevops](img/ADO-DevOps-Tool_1200x675@2x.png)
 
-## Indice
+# Indice
 -----------
-# 1.Introduccion
-# 2. Administracion de sistema
-# 
-#
+## 1.Introduccion
+## 2. Administracion de sistema
+## 3. Desarrolladores
+## 4. Devops
+
