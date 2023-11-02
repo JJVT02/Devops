@@ -11,3 +11,4 @@
 - Para obtener más información, consulta la [página de resultados de búsqueda en Wikipedia](https://en.wikipedia.org/wiki/Special:Search?search=T%C3%ADtulo+de+B%C3%BAsqueda).
 
 # Licencia
+- Este proyecto está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Consulta la [página de la licencia](https://opensource.org/licenses/MIT) para obtener más detalles.
